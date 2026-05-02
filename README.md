@@ -1,9 +1,9 @@
 # MetaSploit-Toolkit-By-SC-Boss
 MetaSploit- ULTIMATE PROFESSIONAL PENETRATION TESTING SUITE 
 
-```bash
+
 (![image](https://i.ibb.co.com/FkgGkt1N/2026-05-02-131508.png)
-```
+
 
 ```bash
 # Install Termux first
